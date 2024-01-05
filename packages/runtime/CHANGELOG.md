@@ -1,5 +1,11 @@
 # nxjs-runtime
 
+## 0.0.27
+
+### Patch Changes
+
+- Declare globals with `var` instead of `const` to make them visible on `globalThis` ([`e6e1cb042ba030acf362f90efd350ae186622fda`](https://github.com/TooTallNate/nx.js/commit/e6e1cb042ba030acf362f90efd350ae186622fda))
+
 ## 0.0.26
 
 ### Patch Changes
